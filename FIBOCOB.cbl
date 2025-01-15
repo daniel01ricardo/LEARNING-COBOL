@@ -9,9 +9,9 @@
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
-       77 WS-NUM1             PIC 999.
-       77 WS-NUM2             PIC 999.
-       77 WS-NUM3             PIC 999.
+       77 WS-NUM1          PIC 999.
+       77 WS-NUM2          PIC 999.
+       77 WS-NUM3          PIC 999.
        77 I                PIC 99.
        77 FIBST            PIC XXX.
        77 RES              PIC X(64).
